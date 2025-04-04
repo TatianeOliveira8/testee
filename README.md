@@ -15,11 +15,6 @@ Dashboard de Indicadores para a empresa Helpnei, com monitoramento de métricas 
 ## 📊 Burndown
 ![Gráfico Burndown](docs/burndown.png)
 
-## 🗂 Relatórios por Sprint
-- [Sprint 1](docs/sprints/sprint1.md) - [Documentação]()
-- [Sprint 2](docs/sprints/sprint2.md) - [Documentação]()
-- [Sprint 3](docs/sprints/sprint3.md) - [Documentação]()
-
 ## 📋 Product Backlog
 | Ranking | Prioridade | User Story | Sprint | 
 |---------|------------|------------|--------|

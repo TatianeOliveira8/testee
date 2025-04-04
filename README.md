@@ -25,6 +25,12 @@ Dashboard de Indicadores para a empresa Helpnei, com monitoramento de métricas 
 |---------|------------|------------|--------|
 | 1 | Alta | Como Administrador, quero acessar um painel de controle básico... | Sprint 1 |
 | 2 | Alta | Como administrador, quero que o sistema tenha um banco de dados... | Sprint 1 |
+| 1 | Alta | Como Administrador, quero acessar um painel de controle básico... | Sprint 1 |
+| 2 | Alta | Como administrador, quero que o sistema tenha um banco de dados... | Sprint 1 |
+| 1 | Alta | Como Administrador, quero acessar um painel de controle básico... | Sprint 1 |
+| 2 | Alta | Como administrador, quero que o sistema tenha um banco de dados... | Sprint 1 |
+| 1 | Alta | Como Administrador, quero acessar um painel de controle básico... | Sprint 1 |
+| 2 | Alta | Como administrador, quero que o sistema tenha um banco de dados... | Sprint 1 |
 | ... | ... | ... | ... |
 
 ## 🗓️ Cronograma

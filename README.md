@@ -1,7 +1,5 @@
 # The Devs Department - Dashboard Helpnei
 
-[![Vídeo Demonstração](https://img.youtube.com/vi/SEU_CODIGO/0.jpg)](https://www.youtube.com/watch?v=SEU_CODIGO)
-
 > **Projeto SCRUM**: Desenvolvido no 2º Semestre de DSM na Fatec São José dos Campos
 
 ## 📌 Visão Geral
@@ -35,4 +33,4 @@ Dashboard de Indicadores para a empresa Helpnei, com monitoramento de métricas 
 | Product Owner | Gustavo Almeida | [LinkedIn](...) • [GitHub](...) |
 | ... | ... | ... |
 
-## 📁 Estrutura de Pastas
+[![Vídeo Demonstração](https://img.youtube.com/vi/SEU_CODIGO/0.jpg)](https://www.youtube.com/watch?v=SEU_CODIGO)

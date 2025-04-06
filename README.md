@@ -122,5 +122,6 @@ Visão inicial da interface do **Dashboard Helpnei**, desenvolvida para validar 
 
 [Visualizar Vídeo de Demonstração](https://www.youtube.com/watch?v=KzmAM3UuZv8)
 
-→ [Voltar ao topo](#topo)
+→ [Voltar ao topo](#visao-do-projeto)
+
 

@@ -103,11 +103,7 @@ O **Dashboard Helpnei** é uma solução web desenvolvida pela The Devs Departme
 
 ---
 
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=SEU_CODIGO_DO_VIDEO">
-    <img src="[https://img.youtube.com/vi/SEU_CODIGO_DO_VIDEO/0.jpg](https://www.youtube.com/watch?v=KzmAM3UuZv8)" alt="Vídeo Demonstração">
-  </a>
-</p>
+[Visualizar Vídeo de Demonstração](https://www.youtube.com/watch?v=KzmAM3UuZv8)
 
 → [Voltar ao topo](#topo)
 

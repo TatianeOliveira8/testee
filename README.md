@@ -67,7 +67,18 @@ O **Dashboard Helpnei** é uma solução web desenvolvida pela The Devs Departme
 - 📁 **Documentação Geral** – visão técnica e funcional do projeto: [`docs/documentacao_geral.pdf`](docs/documentacao_geral.pdf)
 - 📘 **Manual do Usuário** – instruções para uso do sistema: [`docs/manual_usuario.pdf`](docs/manual_usuario.pdf)
 
+## 🎨 Protótipo & Mockups <a name="prototipo"></a>
+Visão inicial da interface do **Dashboard Helpnei**, desenvolvida para validar a experiência do usuário antes da implementação.
 
+<div align="center">
+  <img src="assets/mockups/dashboard-mockup.png" alt="Mockup do Dashboard Helpnei" width="800">
+</div>
+
+### ✨ Principais Funcionalidades
+- **Painel de métricas** (lojas, usuários, transações)
+- **Filtros** por período, região e categoria
+- **Visualização gráfica** em cards interativos
+- **Design responsivo** para diferentes dispositivos
 
 ## 🛠️ Tecnologias Utilizadas <a name="tecnologias"></a>
 
@@ -89,6 +100,15 @@ O **Dashboard Helpnei** é uma solução web desenvolvida pela The Devs Departme
 ---
 
 ## 👥 Equipe <a name="equipe"></a>
+
+<div align="center">
+  <img src="https://i.imgur.com/EXEMPLO.jpg" alt="Foto da Equipe The Devs Department" width="600">
+  <br>
+  <em>Equipe The Devs Department - Fatec São José dos Campos</em>
+</div>
+
+<br>
+
 | Função           | Nome                  | LinkedIn • GitHub                                                                             |
 |------------------|-----------------------|-----------------------------------------------------------------------------------------------|
 | Product Owner    | Gustavo Almeida       | [LinkedIn](https://www.linkedin.com/in/gustavo-almeida-camargo/) • [GitHub](https://github.com/GustavoAC0802) |

@@ -28,9 +28,9 @@ O **Dashboard Helpnei** é uma solução web desenvolvida pela The Devs Departme
 | Entrega              | Período               | Status         | Relatório                 |
 |----------------------|-----------------------|----------------|---------------------------|
 | **Kick Off**         | 24/02 – 28/02/2025    | ✅ Concluído   |       |
-| **Sprint 1**         | 10/03 – 30/03/2025    | ✅ Concluído   | [ver relatório](docs/sprint1.md)      |
-| **Sprint 2**         | 07/04 – 27/04/2025    | ⏳ Em andamento | [ver relatório](docs/sprint2.md)      |
-| **Sprint 3**         | 05/05 – 25/05/2025    | ⌛ Planejado   | [ver relatório](docs/sprint3.md)      |
+| **Sprint 1**         | 10/03 – 30/03/2025    | ✅ Concluído   | [ver relatório](docs/sprints/sprint1/sprint1.md)     |
+| **Sprint 2**         | 07/04 – 27/04/2025    | ⏳ Em andamento | [ver relatório](docs/sprints/sprint2/sprint2.md)      |
+| **Sprint 3**         | 05/05 – 25/05/2025    | ⌛ Planejado   | [ver relatório](docs/sprints/sprint3/sprint3.md)      |
 | **Feira de Soluções**| 29/05/2025            | ⌛ Planejado   |      |
 
 ---

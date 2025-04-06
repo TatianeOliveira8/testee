@@ -102,7 +102,7 @@ Visão inicial da interface do **Dashboard Helpnei**, desenvolvida para validar 
 ## 👥 Equipe <a name="equipe"></a>
 
 <div align="center">
-   <img src="docs/foto-grupo.png" alt="Foto da Equipe The Devs Department" width="600">
+    <img src="foto-grupo.jpg" alt="Foto da Equipe The Devs Department" width="600">
   <br>
   <em>Equipe The Devs Department - Fatec São José dos Campos</em>
 </div>

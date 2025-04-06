@@ -1,15 +1,10 @@
-# <div align="center">
-> ![Banner do Projeto](https://via.placeholder.com/1200x400?text=Dashboard+Helpnei+-+The+Devs+Department)
-> </div>
-
-<br id="topo">
 
 <p align="center">
   <a href="#visao-do-projeto">Visão do Projeto</a> •
   <a href="#cronograma">Cronograma</a> •
   <a href="#product-backlog">Product Backlog</a> •
   <a href="#sprint-backlog">Sprint Backlog</a> •
-  <a href="#prototipo-e-documentacao">Protótipo & Documentação</a> •
+  <a href="#documentos">Documentos</a> •
   <a href="#tecnologias">Tecnologias</a> •
   <a href="#equipe">Equipe</a>
 </p>
@@ -24,7 +19,7 @@ O **Dashboard Helpnei** é uma solução web desenvolvida pela The Devs Departme
 - Filtrar dados por período, região e categoria de usuário.
 - Acessar insights em tempo real para patrocinadores e administradores.
 
-> **Metodologia:** Ágil SCRUM (3 sprints + Feira de Soluções)
+> **Metodologia:** Ágil SCRUM (3 sprints + Feira de Soluções)  
 > **Foco:** Proatividade, autonomia, colaboração e entrega de resultados.
 
 ---
@@ -61,33 +56,35 @@ O **Dashboard Helpnei** é uma solução web desenvolvida pela The Devs Departme
 ---
 
 ## 📂 Sprint Backlog <a name="sprint-backlog"></a>
-- **Sprint 2 (07/04 – 27/04/2025)**
-  - 🔲 Implementar gráficos de linhas e barras para transações diárias.
-  - 🔲 Filtrar indicadores por data e região.
-  - 🔲 Conectar front-end ao endpoint `/api/metrics`.
-  - 🔲 Testes unitários para serviço de métricas.
-  - 🔲 Atualizar documentação Swagger do backend.
+### [Visualizar Sprint Backlog](docs/sprint_backlog.pdf)
 
----
+------
 
-## 🖥️ Protótipo & Documentação <a name="prototipo-e-documentacao"></a>
-- **Wireframes & Mockups:** em `docs/design/` (Figma link: [Dashboard Helpnei](https://figma.com/your-design))
-- **Protótipo Interativo:** hospedado em React (ver entrega Sprint 1: `docs/sprint1.md`)
-- **Documentação Geral:** `docs/documentacao_geral.pdf`
-- **Manual do Usuário:** `docs/manual_usuario.pdf`
-- **APIs & Swagger:**
-  - **Metrics Service:** `https://helpnei-metrics.herokuapp.com/swagger-ui`  
-  - **User Service:** `https://helpnei-users.herokuapp.com/swagger-ui`
+## 📄 Documentos <a name="documentos"></a>
+- 📃 **Definição de Pronto (DoD)** – atualizado com entregas feitas até o momento: [`docs/dod_geral.pdf`](docs/dod_geral.pdf)
+- 📌 **Definição de Pronto para iniciar (DoR)** – critérios gerais de início de tarefa: [`docs/dor_geral.pdf`](docs/dor_geral.pdf)
+- 🗂️ **Sprint Backlogs** – com tarefas das Sprints 1, 2 e 3: [`docs/sprint_backlogs.pdf`](docs/sprint_backlogs.pdf)
+- 📁 **Documentação Geral** – visão técnica e funcional do projeto: [`docs/documentacao_geral.pdf`](docs/documentacao_geral.pdf)
+- 📘 **Manual do Usuário** – instruções para uso do sistema: [`docs/manual_usuario.pdf`](docs/manual_usuario.pdf)
 
----
 
-## 🛠️ Tecnologias <a name="tecnologias"></a>
-<img src="https://img.shields.io/badge/React-CED4DA?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-CED4DA?style=for-the-badge&logo=tailwindcss&logoColor=38B2AC" alt="Tailwind CSS" />
-<img src="https://img.shields.io/badge/Node.js-CED4DA?style=for-the-badge&logo=nodedotjs&logoColor=339933" alt="Node.js" />  
-<img src="https://img.shields.io/badge/Express.js-CED4DA?style=for-the-badge&logo=express&logoColor=000000" alt="Express.js" />
-<img src="https://img.shields.io/badge/MySQL-CED4DA?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL" />
-<img src="https://img.shields.io/badge/GitHub-CED4DA?style=for-the-badge&logo=github&logoColor=181717" alt="GitHub" />
+
+## 🛠️ Tecnologias Utilizadas <a name="tecnologias"></a>
+
+<div align="center" style="margin: 1.5rem 0;">
+  <div style="display: flex; justify-content: center; gap: 0.6rem; flex-wrap: wrap;">
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React" />
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+    <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  </div>
+</div>
 
 ---
 
@@ -107,7 +104,9 @@ O **Dashboard Helpnei** é uma solução web desenvolvida pela The Devs Departme
 ---
 
 <p align="center">
-  [![Vídeo Demonstração](https://img.youtube.com/vi/SEU_CODIGO/0.jpg)](https://www.youtube.com/watch?v=SEU_CODIGO)
+  <a href="https://www.youtube.com/watch?v=SEU_CODIGO_DO_VIDEO">
+    <img src="[https://img.youtube.com/vi/SEU_CODIGO_DO_VIDEO/0.jpg](https://www.youtube.com/watch?v=KzmAM3UuZv8)" alt="Vídeo Demonstração">
+  </a>
 </p>
 
 → [Voltar ao topo](#topo)

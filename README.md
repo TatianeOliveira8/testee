@@ -61,11 +61,10 @@ O **Dashboard Helpnei** é uma solução web desenvolvida pela The Devs Departme
 ------
 
 ## 📄 Documentos <a name="documentos"></a>
-- 📃 **Definição de Pronto (DoD)** – atualizado com entregas feitas até o momento: [`docs/dod_geral.pdf`](docs/dod_geral.pdf)
-- 📌 **Definição de Pronto para iniciar (DoR)** – critérios gerais de início de tarefa: [`docs/dor_geral.pdf`](docs/dor_geral.pdf)
-- 🗂️ **Sprint Backlogs** – com tarefas das Sprints 1, 2 e 3: [`docs/sprint_backlogs.pdf`](docs/entregas/Product_Backlog-atual.pdf)
-- 📁 **Documentação Geral** – visão técnica e funcional do projeto: [`docs/documentacao_geral.pdf`](docs/documentacao_geral.pdf)
-- 📘 **Manual do Usuário** – instruções para uso do sistema: [`docs/manual_usuario.pdf`](docs/manual_usuario.pdf)
+- 📃 ** DoD (Já feito) – critérios e entregas já concluídas: [`docs/dod_geral.pdf`](docs/entregas/dod_geral.pdf)
+- 📌 **DoR (Pronto para iniciar) – critérios para começar uma tarefa: [`docs/dor_geral.pdf`](docs/entregas/dor_geral.pdf)
+- 🗂️ **Sprint Backlogs** – com tarefas das Sprints 1, 2 e 3: [`docs/sprint_backlogs.pdf`](docs/entregas/Sprint_Backlog-atual.pdf)
+- 📘 **Manual do Usuário** – instruções para uso do sistema: [`docs/manual_usuario.pdf`](docs/manual.md)
 
 ## 🎨 Protótipo & Mockups <a name="prototipo"></a>
 Visão inicial da interface do **Dashboard Helpnei**, desenvolvida para validar a experiência do usuário antes da implementação.

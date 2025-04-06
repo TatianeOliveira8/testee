@@ -63,7 +63,7 @@ O **Dashboard Helpnei** é uma solução web desenvolvida pela The Devs Departme
 ## 📄 Documentos <a name="documentos"></a>
 - 📃 **Definição de Pronto (DoD)** – atualizado com entregas feitas até o momento: [`docs/dod_geral.pdf`](docs/dod_geral.pdf)
 - 📌 **Definição de Pronto para iniciar (DoR)** – critérios gerais de início de tarefa: [`docs/dor_geral.pdf`](docs/dor_geral.pdf)
-- 🗂️ **Sprint Backlogs** – com tarefas das Sprints 1, 2 e 3: [`docs/sprint_backlogs.pdf`](docs/sprint_backlogs.pdf)
+- 🗂️ **Sprint Backlogs** – com tarefas das Sprints 1, 2 e 3: [`docs/sprint_backlogs.pdf`](docs/entregas/Product_Backlog-atual.pdf)
 - 📁 **Documentação Geral** – visão técnica e funcional do projeto: [`docs/documentacao_geral.pdf`](docs/documentacao_geral.pdf)
 - 📘 **Manual do Usuário** – instruções para uso do sistema: [`docs/manual_usuario.pdf`](docs/manual_usuario.pdf)
 

@@ -35,13 +35,13 @@ Entregar a primeira versão funcional do sistema com foco em back-end (modelagem
 
 ## 🎨 Design da Sprint
 
-![Design Sprint 1](./docs/sprints/sprint1.png)
+![Design Sprint 1](./docs/sprints/mockup-V1.png)
 
 ---
 
 ## 📊 Burndown Chart
 
-![Burndown Sprint 1](./docs/sprints/burndown-sprint1.png)
+![Burndown Sprint 1](./docs/sprints/burndown-sprint1.jpg)
 
 ---
 
@@ -49,4 +49,4 @@ Entregar a primeira versão funcional do sistema com foco em back-end (modelagem
 
 - [📄 Definition of Ready (DoR) – Sprint 1](./docs/sprints/DoR-sprint1.pdf)  
 - [📄 Definition of Done (DoD) – Sprint 1](./docs/sprints/Definition%20of%20Done(DoD)-sprint1.pdf)  
-- [📄 Product Backlog – Sprint 1](./docs/sprints/ProductBacklog-sprint1.png)
+- [📄 Product Backlog – Sprint 1](./docs/sprints/naodefinido)

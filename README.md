@@ -56,7 +56,7 @@ O **Dashboard Helpnei** é uma solução web desenvolvida pela The Devs Departme
 ---
 
 ## 📂 Sprint Backlog <a name="sprint-backlog"></a>
-### [Visualizar Sprint Backlog](docs/sprint_backlog.pdf)
+### [Visualizar Sprint Backlog](docs/entregas/mockup.png)
 
 ------
 

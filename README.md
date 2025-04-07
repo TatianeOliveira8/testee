@@ -12,8 +12,9 @@
 ---
 
 ## 📌 Visão do Projeto <a name="visao-do-projeto"></a>
-O projeto consiste no desenvolvimento de um Dashboard de Indicadores para a empresa Helpnei, com o objetivo de monitorar e exibir métricas importantes relacionadas a lojas, usuários e transações. O dashboard fornecerá uma visão clara e intuitiva do desempenho da plataforma, permitindo que administradores e patrocinadores tomem decisões informadas com base em dados.
+O projeto tem como objetivo o desenvolvimento de um Dashboard de Indicadores para a empresa Helpnei, voltado especialmente para empresas afiliadas à plataforma. A solução visa centralizar, monitorar e exibir métricas essenciais relacionadas a lojas, usuários e transações, oferecendo uma visão clara, objetiva e interativa do desempenho da plataforma.
 
+Com uma interface intuitiva e responsiva, o dashboard permitirá que administradores e patrocinadores acompanhem em tempo real os principais indicadores do sistema, identificando padrões, gargalos e oportunidades de melhoria. Essa visualização estratégica de dados visa suportar a tomada de decisões com base em informações concretas, contribuindo para a evolução contínua dos serviços oferecidos pela Helpnei às suas afiliadas.
 ---
 
 ## 🗓️ Cronograma <a name="cronograma"></a>

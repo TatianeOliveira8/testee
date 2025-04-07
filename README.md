@@ -2,7 +2,6 @@
 
 > **Período da Sprint:** 10/03 a 30/03/2025  
 > **Status:** ✅ Concluída  
-> **Scrum Master:** Tatiane Oliveira  
 > **Equipe:** The Devs Department
 
 ---
@@ -48,6 +47,6 @@ Entregar a primeira versão funcional do sistema com foco em back-end (modelagem
 
 ## 📎 Documentos da Sprint
 
-- [📄 Sprint Backlog – Sprint 1](./docs/sprints/Sprint%20Backlog%20(1).pdf)  
-- [📄 Product Backlog – API](./docs/sprints/API_Product_Backlog.pdf)  
-
+- [📄 Definition of Ready (DoR) – Sprint 1](./docs/sprints/DoR-sprint1.pdf)  
+- [📄 Definition of Done (DoD) – Sprint 1](./docs/sprints/Definition%20of%20Done(DoD)-sprint1.pdf)  
+- [📄 Product Backlog – Sprint 1](./docs/sprints/ProductBacklog-sprint1.png)

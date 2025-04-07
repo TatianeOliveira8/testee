@@ -68,5 +68,5 @@ Com isso, foi possível entregar uma primeira versão funcional, contendo o flux
 
 - [📄 Definition of Ready (DoR) – Sprint 1](./docs/sprints/sprint1/DoR-sprint1.pdf)  
 - [📄 Definition of Done (DoD) – Sprint 1](./docs/sprints/sprint1/Definition%20of%20Done(DoD)-sprint1.pdf)  
-- [📄 Product Backlog – Sprint 1](./docs/sprints/sprint1/naodefinido)
+- [📄 Product Backlog – Sprint 1](./docs/sprints/sprint1/ProductBacklog-sprint1.pdf)
 

@@ -12,15 +12,7 @@
 ---
 
 ## 📌 Visão do Projeto <a name="visao-do-projeto"></a>
-O **Dashboard Helpnei** é uma solução web desenvolvida pela The Devs Department em parceria com a empresa **Helpnei**, no âmbito do 2º Semestre de DSM da Fatec São José dos Campos. O objetivo é oferecer um painel de indicadores que permita:
-
-- Monitorar métricas de **lojas**, **usuários** e **transações**.
-- Gerar relatórios e gráficos interativos para apoiar decisões estratégicas.
-- Filtrar dados por período, região e categoria de usuário.
-- Acessar insights em tempo real para patrocinadores e administradores.
-
-> **Metodologia:** Ágil SCRUM (3 sprints + Feira de Soluções)  
-> **Foco:** Proatividade, autonomia, colaboração e entrega de resultados.
+O projeto consiste no desenvolvimento de um Dashboard de Indicadores para a empresa Helpnei, com o objetivo de monitorar e exibir métricas importantes relacionadas a lojas, usuários e transações. O dashboard fornecerá uma visão clara e intuitiva do desempenho da plataforma, permitindo que administradores e patrocinadores tomem decisões informadas com base em dados.
 
 ---
 

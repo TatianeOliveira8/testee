@@ -70,7 +70,7 @@ O **Dashboard Helpnei** é uma solução web desenvolvida pela The Devs Departme
 Visão inicial da interface do **Dashboard Helpnei**, desenvolvida para validar a experiência do usuário antes da implementação.
 
 <div align="center">
-  <img src="assets/mockups/dashboard-mockup.png" alt="Mockup do Dashboard Helpnei" width="800">
+  <img src="./docs/entregas/mockup.png" alt="Mockup do Dashboard Helpnei" width="800">
 </div>
 
 ### ✨ Principais Funcionalidades

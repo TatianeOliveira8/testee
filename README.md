@@ -12,15 +12,9 @@
 ---
 
 ## 📌 Visão do Projeto <a name="visao-do-projeto"></a>
-O **Dashboard Helpnei** é uma solução web desenvolvida pela The Devs Department em parceria com a empresa **Helpnei**, no âmbito do 2º Semestre de DSM da Fatec São José dos Campos. O objetivo é oferecer um painel de indicadores que permita:
+O projeto tem como objetivo o desenvolvimento de um Dashboard de Indicadores para a empresa Helpnei, voltado especialmente para empresas afiliadas à plataforma. A solução visa centralizar, monitorar e exibir métricas essenciais relacionadas a lojas, usuários e transações, oferecendo uma visão clara, objetiva e interativa do desempenho da plataforma.
 
-- Monitorar métricas de **lojas**, **usuários** e **transações**.
-- Gerar relatórios e gráficos interativos para apoiar decisões estratégicas.
-- Filtrar dados por período, região e categoria de usuário.
-- Acessar insights em tempo real para patrocinadores e administradores.
-
-> **Metodologia:** Ágil SCRUM (3 sprints + Feira de Soluções)  
-> **Foco:** Proatividade, autonomia, colaboração e entrega de resultados.
+Com uma interface intuitiva e responsiva, o dashboard permitirá que administradores e patrocinadores acompanhem em tempo real os principais indicadores do sistema, identificando padrões, gargalos e oportunidades de melhoria. Essa visualização estratégica de dados visa suportar a tomada de decisões com base em informações concretas, contribuindo para a evolução contínua dos serviços oferecidos pela Helpnei às suas afiliadas.
 
 ---
 
@@ -56,21 +50,21 @@ O **Dashboard Helpnei** é uma solução web desenvolvida pela The Devs Departme
 ---
 
 ## 📂 Sprint Backlog <a name="sprint-backlog"></a>
-### [Visualizar Sprint Backlog](docs/sprint_backlog.pdf)
+[Visualizar Sprint Backlog](./docs/entregas/Sprint_Backlog-sprint2.pdf)
 
 ------
 
 ## 📄 Documentos <a name="documentos"></a>
-- 📃 ** DoD (Já feito) – critérios e entregas já concluídas: [`docs/dod_geral.pdf`](docs/entregas/dod_geral.pdf)
-- 📌 **DoR (Pronto para iniciar) – critérios para começar uma tarefa: [`docs/dor_geral.pdf`](docs/entregas/dor_geral.pdf)
-- 🗂️ **Sprint Backlogs** – com tarefas das Sprints 1, 2 e 3: [`docs/sprint_backlogs.pdf`](docs/entregas/Sprint_Backlog-atual.pdf)
+- 📃 ** DoD (Já feito) – critérios e entregas já concluídas: [`docs/dod_geral.pdf`](./docs/sprints/sprint1/DoD-sprint1.pdf)
+- 📌 **DoR (Pronto para iniciar) – critérios para começar uma tarefa: [`docs/dor_geral.pdf`](docs/entregas/DoR-sprint2.pdf)
+- 🗂️ **Sprint Backlogs** – com tarefas das Sprints 1, 2 e 3: [`docs/sprint_backlogs.pdf`](./docs/entregas/Sprint_Backlog-sprint2.pdf)
 - 📘 **Manual do Usuário** – instruções para uso do sistema: [`docs/manual_usuario.pdf`](docs/manual.md)
 
 ## 🎨 Protótipo & Mockups <a name="prototipo"></a>
 Visão inicial da interface do **Dashboard Helpnei**, desenvolvida para validar a experiência do usuário antes da implementação.
 
 <div align="center">
-  <img src="assets/mockups/dashboard-mockup.png" alt="Mockup do Dashboard Helpnei" width="800">
+  <img src="./docs/entregas/mockup.png" alt="Mockup do Dashboard Helpnei" width="600">
 </div>
 
 ### ✨ Principais Funcionalidades

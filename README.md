@@ -1,14 +1,26 @@
-# 📌 Sprint 1 – Relatório Técnico
 
-> **Período da Sprint:** 10/03 a 30/03/2025  
-> **Status:** ✅ Concluída  
-> **Equipe:** The Devs Department
+<p align="center">
+  <a href="#visao-do-projeto">Visão do Projeto</a> •
+  <a href="#cronograma">Cronograma</a> •
+  <a href="#product-backlog">Product Backlog</a> •
+  <a href="#sprint-backlog">Sprint Backlog</a> •
+  <a href="#documentos">Documentos</a> •
+  <a href="#tecnologias">Tecnologias</a> •
+  <a href="#equipe">Equipe</a>
+</p>
 
 ---
 
-## 🎯 Objetivo da Sprint
+## 📌 Visão do Projeto <a name="visao-do-projeto"></a>
+O **Dashboard Helpnei** é uma solução web desenvolvida pela The Devs Department em parceria com a empresa **Helpnei**, no âmbito do 2º Semestre de DSM da Fatec São José dos Campos. O objetivo é oferecer um painel de indicadores que permita:
 
-Entregar a primeira versão funcional do sistema com foco em back-end (modelagem e API), conexão com o banco de dados, base da interface e layout do dashboard.
+- Monitorar métricas de **lojas**, **usuários** e **transações**.
+- Gerar relatórios e gráficos interativos para apoiar decisões estratégicas.
+- Filtrar dados por período, região e categoria de usuário.
+- Acessar insights em tempo real para patrocinadores e administradores.
+
+> **Metodologia:** Ágil SCRUM (3 sprints + Feira de Soluções)  
+> **Foco:** Proatividade, autonomia, colaboração e entrega de resultados.
 
 ---
 
@@ -43,11 +55,10 @@ Entregar a primeira versão funcional do sistema com foco em back-end (modelagem
 
 ---
 
-## 🎨 Design da Sprint
+## 📂 Sprint Backlog <a name="sprint-backlog"></a>
+### [Visualizar Sprint Backlog](docs/sprint_backlog.pdf)
 
-![Design Sprint 1](./docs/sprints/sprint1/mockup-V1.png)
-
----
+------
 
 ## 📄 Documentos <a name="documentos"></a>
 - 📃 ** DoD (Já feito) – critérios e entregas já concluídas: [`docs/dod_geral.pdf`](docs/entregas/dod_geral.pdf)

@@ -18,35 +18,47 @@ Com isso, foi possível entregar uma primeira versão funcional, contendo o flux
 
 ## ✅ Tarefas Concluídas
 
-| Tarefa                                                                 |
-|------------------------------------------------------------------------|
-| Definir Layout Geral                                                  |
-| Ajuste de Design conforme o FeedBack                                  |
-| Validação do wireframe                                                |
-| Criação da estrutura básica da(s) tela(s)                             |
-| Implementação do Layout Responsivo para diferentes dispositivos       |
-| Estilização das telas com base no Design Validado                     |
-| Desenvolver os dashboards com base no wireframe                       |
-| Criar seções para gráficos e métricas                                 |
-| Modelar o Banco de Dados com base nos requisitos                      |
-| Criação do modelo entidade relacionamento (MER)                       |
-| Implementar no MySQL                                                  |
-| Configurar um servidor básico no backend (Node.js, Django etc)        |
-| Teste de Requisição                                                   |
-| Estabelecer conexão com o banco de dados                              |
+1. **Definir Layout Geral**  
+   *Como usuário, quero que o sistema tenha um layout bem definido para que eu consiga navegar com facilidade e entender onde estão as informações que preciso.*
 
----
+2. **Ajuste de Design conforme o Feedback**  
+   *Como usuário, quero que os ajustes visuais do sistema sigam meu feedback para que a interface fique mais alinhada às minhas necessidades.*
 
-## 📌 Requisitos Atendidos
+3. **Validação do Wireframe**  
+   *Como usuário, quero validar o wireframe antes do desenvolvimento para garantir que a estrutura da interface está correta desde o início.*
 
-| Código   | Requisito                                                                                  | Status       |
-|----------|---------------------------------------------------------------------------------------------|--------------|
-| RF-01    | Desenvolver um Dashboard de Indicadores                                                    | ✅ Feito      |
-| RF-02    | Exibir o número de lojas criadas                                                           | 🟡 Parcial    |
-| RF-03    | Mostrar a quantidade de usuários impactados                                                | 🟡 Parcial    |
-| RF-04    | Exibir a distribuição geográfica das lojas e usuários                                      | 🟡 Parcial    |
-| RNF-01   | Criar um Manual do Usuário                                                                  | ❌ Não feito nesta sprint |
-| RNF-02   | Definir uma Modelagem de Banco de Dados                                                    | ✅ Feito      | |
+4. **Criação da Estrutura Básica das Telas**  
+   *Como desenvolvedor, quero criar a estrutura básica das telas para iniciar o desenvolvimento com uma base organizada.*
+
+5. **Implementação do Layout Responsivo**  
+   *Como usuário, quero acessar o sistema em diferentes dispositivos para ter flexibilidade no uso.*
+
+6. **Estilização das Telas com Base no Design Validado**  
+   *Como usuário, quero que o visual das telas siga o design validado para que o sistema seja agradável e fácil de usar.*
+
+7. **Desenvolver os Dashboards com Base no Wireframe**  
+   *Como usuário, quero dashboards construídos conforme o wireframe para visualizar meus dados com clareza.*
+
+8. **Criar Seções para Gráficos e Métricas**  
+   *Como usuário, quero seções organizadas com gráficos e métricas para acompanhar o desempenho da minha empresa.*
+
+9. **Modelar o Banco de Dados com Base nos Requisitos**  
+   *Como desenvolvedor, quero modelar o banco de dados com base nos requisitos para garantir o armazenamento correto das informações.*
+
+10. **Criação do Modelo Entidade Relacionamento (MER)**  
+   *Como desenvolvedor, quero representar visualmente as entidades e relações do sistema para facilitar a implementação.*
+
+11. **Implementar no MySQL**  
+   *Como desenvolvedor, quero implementar o modelo no MySQL para estruturar e armazenar os dados do sistema.*
+
+12. **Configurar um Servidor Backend**  
+   *Como desenvolvedor, quero configurar um servidor para permitir a comunicação entre front-end e banco de dados.*
+
+13. **Teste de Requisição**  
+   *Como desenvolvedor, quero testar as requisições para garantir que os dados estão sendo enviados e recebidos corretamente.*
+
+14. **Estabelecer Conexão com o Banco de Dados**  
+   *Como desenvolvedor, quero conectar o backend ao banco de dados para permitir o acesso e manipulação das informações.*
 
 ---
 

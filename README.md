@@ -2,7 +2,6 @@
 
 > **Período da Sprint:** 10/03 a 30/03/2025  
 > **Status:** ✅ Concluída  
-> **Equipe:** The Devs Department
 
 ---
 

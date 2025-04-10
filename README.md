@@ -12,9 +12,9 @@
 ---
 
 ## 📌 Visão do Projeto <a name="visao-do-projeto"></a>
-O projeto tem como objetivo o desenvolvimento de um Dashboard de Indicadores para a empresa Helpnei, voltado especialmente para empresas afiliadas à plataforma. A solução visa centralizar, monitorar e exibir métricas essenciais relacionadas a lojas, usuários e transações, oferecendo uma visão clara, objetiva e interativa do desempenho da plataforma.
+O projeto consiste no desenvolvimento de um Dashboard de Indicadores para a Helpnei, que centraliza e exibe, de forma ágil e interativa, dados essenciais relativos a lojas, usuários e transações. Com uma interface intuitiva e responsiva, serão apresentados indicadores como o número de lojas criadas, usuários impactados e a distribuição geográfica, permitindo o acompanhamento do desempenho da plataforma.
 
-Com uma interface intuitiva e responsiva, o dashboard permitirá que administradores e patrocinadores acompanhem em tempo real os principais indicadores do sistema, identificando padrões, gargalos e oportunidades de melhoria. Essa visualização estratégica de dados visa suportar a tomada de decisões com base em informações concretas, contribuindo para a evolução contínua dos serviços oferecidos pela Helpnei às suas afiliadas.
+Além disso, o dashboard incorpora recursos de filtragem por período e localização, com gráficos dinâmicos e mapas interativos que possibilitam análises comparativas e detalhadas. Essa solução simplifica a visualização dos dados, facilita a comunicação com parceiros e patrocinadores, e apoiando a tomada de decisões estratégicas para o crescimento da empresa ou até mesmo para a Helpnei identificar quais empresas estão trazendo maior expansão para a plataforma.
 
 ---
 
@@ -57,7 +57,7 @@ Com uma interface intuitiva e responsiva, o dashboard permitirá que administrad
 ## 📄 Documentos <a name="documentos"></a>
 - 📃 ** DoD (Já feito) – critérios e entregas já concluídas: [`docs/dod_geral.pdf`](./docs/sprints/sprint1/DoD-sprint1.pdf)
 - 📌 **DoR (Pronto para iniciar) – critérios para começar uma tarefa: [`docs/dor_geral.pdf`](docs/entregas/DoR-sprint2.pdf)
-- 🗂️ **Sprint Backlogs** – com tarefas das Sprints 1, 2 e 3: [`docs/sprint_backlogs.pdf`](./docs/entregas/Sprint_Backlog-sprint2.pdf)
+- 🗂️ **Sprint Backlogs** – com tarefas das Sprints 1, 2 e 3: [`docs/sprint_backlogs.pdf`](./docs/entregas/SprintBacklog-sprint2.pdf)
 - 📘 **Manual do Usuário** – instruções para uso do sistema: [`docs/manual_usuario.pdf`](docs/manual.md)
 
 ## 🎨 Protótipo & Mockups <a name="prototipo"></a>

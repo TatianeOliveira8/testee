@@ -23,8 +23,8 @@ Além disso, o dashboard incorpora recursos de filtragem por período e localiza
 |----------------------|-----------------------|----------------|---------------------------|
 | **Kick Off**         | 24/02 – 28/02/2025    | ✅ Concluído   |       |
 | **Sprint 1**         | 10/03 – 30/03/2025    | ✅ Concluído   | [ver relatório](https://github.com/TatianeOliveira8/testee/tree/sprint1)   |
-| **Sprint 2**         | 07/04 – 27/04/2025    | ⏳ Em andamento | [ver relatório](docs/sprints/sprint2/sprint2.md)      |
-| **Sprint 3**         | 05/05 – 25/05/2025    | ⌛ Planejado   | [ver relatório](docs/sprints/sprint3/sprint3.md)      |
+| **Sprint 2**         | 07/04 – 27/04/2025    | ⏳ Em andamento | [ver relatório](https://github.com/TatianeOliveira8/testee/tree/sprint1)      |
+| **Sprint 3**         | 05/05 – 25/05/2025    | ⌛ Planejado   | [ver relatório](https://github.com/TatianeOliveira8/testee/tree/sprint1)      |
 | **Feira de Soluções**| 29/05/2025            | ⌛ Planejado   |      |
 
 ---
@@ -46,25 +46,26 @@ Além disso, o dashboard incorpora recursos de filtragem por período e localiza
 | 12      | Alta       | Como Administrador, quero ver distribuição geográfica de lojas e usuários.                                         | 40         | Sprint 3  | RF-10    |
 | 13      | Alta       | Como Administrador, quero acompanhar engajamento e tendências de uso.                                              | 45         | Sprint 3  | RF-11    |
 | 14      | Baixa      | Como Patrocinador, quero interface intuitiva com cores nos cards para facilitar leitura.                          | 45         | Sprint 3  | RF-12    |
+##ALTERAR BURNDOWN
 
 ---
 
 ## 📂 Sprint Backlog <a name="sprint-backlog"></a>
-[Visualizar Sprint Backlog](./docs/entregas/Sprint_Backlog-sprint2.pdf)
+[Visualizar Sprint Backlog](./docs/entrega/SprintBacklog-sprint2.pdf)
 
 ------
 
 ## 📄 Documentos <a name="documentos"></a>
 - 📃 ** DoD (Já feito) – critérios e entregas já concluídas: [`docs/dod_geral.pdf`](./docs/sprints/sprint1/DoD-sprint1.pdf)
-- 📌 **DoR (Pronto para iniciar) – critérios para começar uma tarefa: [`docs/dor_geral.pdf`](docs/entregas/DoR-sprint2.pdf)
-- 🗂️ **Sprint Backlogs** – com tarefas das Sprints 1, 2 e 3: [`docs/sprint_backlogs.pdf`](./docs/entregas/SprintBacklog-sprint2.pdf)
+- 📌 **DoR (Pronto para iniciar) – critérios para começar uma tarefa: [`docs/dor_geral.pdf`](docs/entrega/DoR-sprint2.pdf)
+- 🗂️ **Sprint Backlogs** – com tarefas das Sprints 1, 2 e 3: [`docs/sprint_backlogs.pdf`](./docs/entrega/SprintBacklogsprint2.pdf)
 - 📘 **Manual do Usuário** – instruções para uso do sistema: [`docs/manual_usuario.pdf`](docs/manual.md)
 
 ## 🎨 Protótipo & Mockups <a name="prototipo"></a>
 Visão inicial da interface do **Dashboard Helpnei**, desenvolvida para validar a experiência do usuário antes da implementação.
 
 <div align="center">
-  <img src="./docs/entregas/mockup.png" alt="Mockup do Dashboard Helpnei" width="600">
+  <img src="./docs/entrega/mockup.png" alt="Mockup do Dashboard Helpnei" width="600">
 </div>
 
 ### ✨ Principais Funcionalidades
@@ -75,8 +76,8 @@ Visão inicial da interface do **Dashboard Helpnei**, desenvolvida para validar 
 
 ## 🛠️ Tecnologias Utilizadas <a name="tecnologias"></a>
 
-<div align="center" style="margin: 1.5rem 0;">
-  <div style="display: flex; justify-content: center; gap: 0.6rem; flex-wrap: wrap;">
+<div align="center">
+  <p align="center">
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React" />
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -87,8 +88,9 @@ Visão inicial da interface do **Dashboard Helpnei**, desenvolvida para validar 
     <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
     <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  </div>
+  </p>
 </div>
+
 
 ---
 

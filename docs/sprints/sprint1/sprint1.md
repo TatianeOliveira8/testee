@@ -49,5 +49,5 @@ Entregar a primeira versão funcional do sistema com foco em back-end (modelagem
 ## 📎 Documentos da Sprint
 
 - [📄 Sprint Backlog – Sprint 1](./docs/sprints/Sprint%20Backlog%20(1).pdf)  
-- [📄 Product Backlog – API](./docs/sprints/API_Product_Backlog.pdf)  
+- [📄 Product Backlog – API](./docs/sprints/sprint1/Product%20Backlog%20Sprint%201.pdf.pdf)  
 

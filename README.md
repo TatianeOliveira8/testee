@@ -59,6 +59,6 @@ O indicador de crescimento médio foi mantido como estático nesta fase de desen
 ## 📎 Documentos da Sprint
 
 - [📄 Definition of Ready (DoR) – Sprint 2](./docs/sprints/sprint2/DoR-sprint2.pdf)  
-- [📄 Definition of Done (DoD) – Sprint 2(./docs/sprints/sprint2/DoD-sprint2.pdf)  
+- [📄 Definition of Done (DoD) – Sprint 2](./docs/sprints/sprint2/DoD-sprint2.pdf)  
 - [📄 Product Backlog – Sprint 2](./docs/sprints/sprint2/ProductBacklog-sprint2.pdf)
 

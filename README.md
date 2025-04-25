@@ -1,123 +1,64 @@
 
-<p align="center">
-  <a href="#visao-do-projeto">Visão do Projeto</a> •
-  <a href="#cronograma">Cronograma</a> •
-  <a href="#product-backlog">Product Backlog</a> •
-  <a href="#sprint-backlog">Sprint Backlog</a> •
-  <a href="#documentos">Documentos</a> •
-  <a href="#tecnologias">Tecnologias</a> •
-  <a href="#equipe">Equipe</a>
-</p>
+# 📌 Sprint 1 – Relatório Técnico
+
+> **Período da Sprint:** 07/04 a 27/04/2025  
+> **Status:** ✅ Concluída  
 
 ---
 
-## 📌 Visão do Projeto <a name="visao-do-projeto"></a>
-O projeto consiste no desenvolvimento de um Dashboard de Indicadores para a Helpnei, que centraliza e exibe, de forma ágil e interativa, dados essenciais relativos a lojas, usuários e transações. Com uma interface intuitiva e responsiva, serão apresentados indicadores como o número de lojas criadas, usuários impactados e a distribuição geográfica, permitindo o acompanhamento do desempenho da plataforma.
+## 🎯 Objetivo da Sprint
 
-Além disso, o dashboard incorpora recursos de filtragem por período e localização, com gráficos dinâmicos e mapas interativos que possibilitam análises comparativas e detalhadas. Essa solução simplifica a visualização dos dados, facilita a comunicação com parceiros e patrocinadores, e apoiando a tomada de decisões estratégicas para o crescimento da empresa ou até mesmo para a Helpnei identificar quais empresas estão trazendo maior expansão para a plataforma.
+Esta sprint teve como foco principal a integração entre front-end e back-end utilizando dados simulados. Foram desenvolvidas as páginas de cadastro e seleção de empresas, com a conexão da API ao dashboard para exibição de métricas fictícias, incluindo número de lojas e usuários. Todas as adaptações visuais no dashboard foram realizadas conforme as solicitações do cliente.
 
----
-
-## 🗓️ Cronograma <a name="cronograma"></a>
-| Entrega              | Período               | Status         | Relatório                 |
-|----------------------|-----------------------|----------------|---------------------------|
-| **Kick Off**         | 24/02 – 28/02/2025    | ✅ Concluído   |       |
-| **Sprint 1**         | 10/03 – 30/03/2025    | ✅ Concluído   | [ver relatório](https://github.com/TatianeOliveira8/testee/tree/sprint1)   |
-| **Sprint 2**         | 07/04 – 27/04/2025    | ⏳ Em andamento | [ver relatório](https://github.com/TatianeOliveira8/testee/tree/sprint1)      |
-| **Sprint 3**         | 05/05 – 25/05/2025    | ⌛ Planejado   | [ver relatório](https://github.com/TatianeOliveira8/testee/tree/sprint1)      |
-| **Feira de Soluções**| 29/05/2025            | ⌛ Planejado   |      |
+O indicador de crescimento médio foi mantido como estático nesta fase de desenvolvimento. A implementação validou a arquitetura proposta e o fluxo de dados entre os componentes do sistema.
 
 ---
 
-## 📊 Product Backlog <a name="product-backlog"></a>
-| Ranking | Prioridade | User Story                                                                                                        | Estimativa | Sprint    | Código   |
-|:-------:|:----------:|:-------------------------------------------------------------------------------------------------------------------|:----------:|:---------:|:--------:|
-| 1       | Alta       | Como Administrador, quero acessar um painel com indicadores principais.                                            | 40         | Sprint 1  | RF-01    |
-| 2       | Alta       | Como Administrador, quero um banco de dados estruturado para usuários e lojas.                                     | 60         | Sprint 1  | RNF-02   |
-| 3       | Média      | Como Patrocinador, quero ver o número total de lojas criadas.                                                      | 40         | Sprint 2  | RF-02    |
-| 4       | Média      | Como Patrocinador, quero ver o número de usuários impactados.                                                     | 40         | Sprint 2  | RF-03    |
-| 5       | Média      | Como Usuário, quero escolher entre empresas patrocinadoras.                                                       | 40         | Sprint 2  | RF-04    |
-| 6       | Alta       | Como Usuário, quero preencher formulário de inscrição com meus dados.                                             | 35         | Sprint 2  | RF-05    |
-| 7       | Alta       | Como Usuário, quero visualizar lista de patrocinadores disponíveis.                                               | 30         | Sprint 2  | RF-06    |
-| 8       | Alta       | Como Patrocinador, quero definir critérios de seleção de usuários.                                                | 45         | Sprint 2  | RF-07    |
-| 9       | Baixa      | Como Patrocinador, quero aplicar filtros (estado, idade, renda) para encontrar usuários.                           | 45         | Sprint 3  | RF-08    |
-| 10      | Alta       | Como Administrador, quero filtrar indicadores do dashboard por categoria.                                         | 45         | Sprint 3  | RF-09    |
-| 11      | Média      | Como Usuário, quero acessar manual de uso do sistema.                                                             | 40         | Sprint 3  | RNF-01   |
-| 12      | Alta       | Como Administrador, quero ver distribuição geográfica de lojas e usuários.                                         | 40         | Sprint 3  | RF-10    |
-| 13      | Alta       | Como Administrador, quero acompanhar engajamento e tendências de uso.                                              | 45         | Sprint 3  | RF-11    |
-| 14      | Baixa      | Como Patrocinador, quero interface intuitiva com cores nos cards para facilitar leitura.                          | 45         | Sprint 3  | RF-12    |
-##ALTERAR BURNDOWN
+## ✅ Tarefas Concluídas
+
+1. **Criação de novos Wireframes**  
+   *Como usuário, quero que novos wireframes sejam desenvolvidos com base nos feedbacks recebidos para garantir que a interface atenda minhas necessidades.*
+
+2. **Desenvolvimento da tela de cadastro**  
+   *Como usuário, quero uma tela de cadastro intuitiva para registrar novas empresas no sistema de forma simples e eficiente.*
+
+3. **Desenvolvimento da tela de seleção de empresa**  
+   *Como usuário, quero uma tela clara para selecionar entre as empresas cadastradas e acessar seus dados específicos.*
+
+4. **Ajustes no Dashboard**  
+   *Como usuário, quero que o dashboard seja ajustado conforme solicitei, com melhor organização das informações e elementos visuais.*
+
+5. **Implementação da API REST**  
+   *Como desenvolvedor, quero criar uma API REST funcional para permitir a comunicação eficiente entre front-end e back-end.*
+
+6. **Conexão front-end com back-end**  
+   *Como desenvolvedor, quero integrar completamente o front-end com o back-end para que o dashboard exiba os dados corretamente.*
+
+7. **Tratamento de erros na API**  
+   *Como desenvolvedor, quero implementar um sistema de tratamento de erros para garantir a estabilidade e confiabilidade da aplicação.*
+
+8. **Exibição de métricas no dashboard**  
+   *Como usuário, quero visualizar as métricas atualizadas no dashboard para acompanhar o desempenho em tempo real.*
 
 ---
 
-## 📂 Sprint Backlog <a name="sprint-backlog"></a>
-[Visualizar Sprint Backlog](./docs/entrega/SprintBacklog-sprint2.pdf)
+## 🎨 Design da Sprint
 
-------
-
-## 📄 Documentos <a name="documentos"></a>
-- 📃 ** DoD (Já feito) – critérios e entregas já concluídas: [`docs/dod_geral.pdf`](./docs/sprints/sprint1/DoD-sprint1.pdf)
-- 📌 **DoR (Pronto para iniciar) – critérios para começar uma tarefa: [`docs/dor_geral.pdf`](docs/entrega/DoR-sprint2.pdf)
-- 🗂️ **Sprint Backlogs** – com tarefas das Sprints 1, 2 e 3: [`docs/sprint_backlogs.pdf`](./docs/entrega/SprintBacklogsprint2.pdf)
-- 📘 **Manual do Usuário** – instruções para uso do sistema: [`docs/manual_usuario.pdf`](docs/manual.md)
-
-## 🎨 Protótipo & Mockups <a name="prototipo"></a>
-Visão inicial da interface do **Dashboard Helpnei**, desenvolvida para validar a experiência do usuário antes da implementação.
-
-<div align="center">
-  <img src="./docs/entrega/mockup.png" alt="Mockup do Dashboard Helpnei" width="600">
-</div>
-
-### ✨ Principais Funcionalidades
-- **Painel de métricas** (lojas, usuários, transações)
-- **Filtros** por período, região e categoria
-- **Visualização gráfica** em cards interativos
-- **Design responsivo** para diferentes dispositivos
-
-## 🛠️ Tecnologias Utilizadas <a name="tecnologias"></a>
-
-<div align="center">
-  <p align="center">
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React" />
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-    <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  </p>
-</div>
-
+![Design Sprint 2](./docs/sprints/sprint2/mockup-S2.png)
 
 ---
 
-## 👥 Equipe <a name="equipe"></a>
+## 📊 Burndown Chart
 
-<div align="center">
-  <img src="./foto-grupo.jpeg" alt="Foto da Equipe The Devs Department" style="border-radius: 8px;">
-</div>
+> 📈 **Observação:** O burndown ficou abaixo da linha ideal nesta sprint, pois houve uma contribuição significativa de toda a equipe logo na primeira semana. Embora os finais de semana não estivessem no planejamento original, alguns desenvolvedores optaram por trabalhar nesses dias, o que adiantou consideravelmente a entrega.
 
-<br>
-
-| Função           | Nome                  | LinkedIn • GitHub                                                                             |
-|------------------|-----------------------|-----------------------------------------------------------------------------------------------|
-| Product Owner    | Gustavo Almeida       | [LinkedIn](https://www.linkedin.com/in/gustavo-almeida-camargo/) • [GitHub](https://github.com/GustavoAC0802) |
-| Scrum Master     | Tatiane Oliveira      | [LinkedIn](https://www.linkedin.com/in/tatiane-oliveira-a66789296/) • [GitHub](https://github.com/TatianeOliveira8) |
-| Dev Team         | Pedro Alves           | [LinkedIn](https://www.linkedin.com/in/pedro-alves-579a93140/) • [GitHub](https://github.com/pphvaz) |
-| Dev Team         | Nicoly Guedes         | [LinkedIn](https://www.linkedin.com/in/nicoly-guedes-dev/) • [GitHub](https://github.com/nicolygz) |
-| Dev Team         | Guilherme Almeida     | [LinkedIn](https://www.linkedin.com/in/guilherme-almeida-profile/) • [GitHub](https://github.com/AlmdGuilherme) |
-| Dev Team         | Pedro Martins         | [LinkedIn](https://www.linkedin.com/in/pedro-henrique-martins-55a0752a4/) • [GitHub](https://github.com/pedro-h-martins) |
-| Dev Team         | Otávio Vianna         | [LinkedIn](https://www.linkedin.com/in/ot%C3%A1vio-vianna-lima-1b26a932a/) • [GitHub](https://github.com/tuzzooz) |
-| Dev Team         | Issami Umeoka         | [LinkedIn](https://www.linkedin.com/in/issami-umeoka-786716226/) • [GitHub](https://github.com/IssamiU) |
-| Dev Team         | Tiago Freitas         | [LinkedIn](https://www.linkedin.com/in/tiago-freitas-74730b2a9/) • [GitHub](https://github.com/tiagow2) |
+![Burndown Sprint 2](./docs/sprints/sprint2/burndown-sprint2.jpg)
 
 ---
 
-[Visualizar Vídeo de Demonstração](https://www.youtube.com/watch?v=KzmAM3UuZv8)
+## 📎 Documentos da Sprint
 
-→ [Voltar ao topo](#visao-do-projeto)
-
+- [📄 Definition of Ready (DoR) – Sprint 2](./docs/sprints/sprint2/DoR-sprint2.pdf)  
+- [📄 Definition of Done (DoD) – Sprint 2](./docs/sprints/sprint2/DoD-sprint2.pdf)  
+- [📄 Product Backlog – Sprint 2](./docs/sprints/sprint2/ProductBacklog-sprint2.pdf)
 

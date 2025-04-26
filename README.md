@@ -51,6 +51,11 @@ O indicador de crescimento médio foi mantido como estático nesta fase de desen
 
 ---
 
+## 📊 Burndown Chart
+
+> 📈 **Observação:** O burndown ficou abaixo da linha ideal nesta sprint, pois houve uma contribuição significativa de toda a equipe logo na primeira semana. Embora os finais de semana não estivessem no planejamento original, alguns desenvolvedores optaram por trabalhar nesses dias, o que adiantou consideravelmente a entrega.
+
+![Burndown Sprint 2](./docs/sprints/sprint2/burndownS2.png)
 
 ---
 

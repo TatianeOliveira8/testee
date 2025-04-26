@@ -54,7 +54,7 @@ O indicador de crescimento médio foi mantido como estático nesta fase de desen
 
 ## 📊 Burndown Chart
 
-> 📈 **Observação:** O burndown ficou abaixo da linha ideal nesta sprint, pois houve uma contribuição significativa de toda a equipe logo na primeira semana. Embora os finais de semana não estivessem no planejamento original, alguns desenvolvedores optaram por trabalhar nesses dias, o que adiantou consideravelmente a entrega.
+> 📈 **Observação:** O burndown ficou acima da linha ideal nesta sprint. O motivo principal foi o atraso nos feedbacks do cliente, que impactaram diretamente tarefas críticas. Além disso, houveram dependências internas não mapeadas e tarefas mais complexas do que o previsto, o que fez com que o total executado fosse 69 horas, enquanto o planejado era 52 horas.
 
 ![Burndown Sprint 2](./docs/sprints/sprint2/burndownS2.png)
 

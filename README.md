@@ -44,10 +44,11 @@ O indicador de crescimento médio foi mantido como estático nesta fase de desen
 
 ## 🎨 Design da Sprint
 
-![Design Sprint 2](./docs/sprints/sprint2/cadastro-mockupS2.png)
-![Design Sprint 2](./docs/sprints/sprint2/dashbord-mockup-S2.png)
-![Design Sprint 2](./docs/sprints/sprint2/selecaoempresa-mockup-S2.png)
-
+<div style="display: flex; gap: 10px; justify-content: center;">
+  <img src="./docs/sprints/sprint2/cadastro-mockupS2.png" alt="Cadastro" width="269"/>
+  <img src="./docs/sprints/sprint2/dashbord-mockup-S2.png" alt="Dashboard" width="280"/>
+  <img src="./docs/sprints/sprint2/selecaoempresa-mockup-S2.png" alt="Seleção de Empresa" width="327"/>
+</div>
 
 ---
 

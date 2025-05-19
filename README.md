@@ -1,64 +1,83 @@
+# 📌 Sprint 3 – Relatório Técnico
 
-# 📌 Sprint 1 – Relatório Técnico
-
-> **Período da Sprint:** 07/04 a 27/04/2025  
+> **Período da Sprint:** 05/05 a 25/05/2025  
 > **Status:** ✅ Concluída  
 
 ---
 
 ## 🎯 Objetivo da Sprint
 
-Esta sprint teve como foco principal a integração entre front-end e back-end utilizando dados simulados. Foram desenvolvidas as páginas de cadastro e seleção de empresas, com a conexão da API ao dashboard para exibição de métricas fictícias, incluindo número de lojas e usuários. Todas as adaptações visuais no dashboard foram realizadas conforme as solicitações do cliente.
-
-O indicador de crescimento médio foi mantido como estático nesta fase de desenvolvimento. A implementação validou a arquitetura proposta e o fluxo de dados entre os componentes do sistema.
+Nesta sprint, foram implementadas funcionalidades de filtragem avançada no mapa, permitindo visualizar usuários impactados por estado e pelo crescimento médio. Foi incluído um filtro de preferência de usuário, baseado no perfil desejado pela empresa para patrocínio, sendo que esse filtro está diretamente vinculado ao banco de dados, sem controle intermediário no sistema. O cadastro de usuários foi finalizado com dados fictícios para simular o uso real. Também foi criado o manual do usuário, com a documentação das funcionalidades implementadas, e aplicadas otimizações técnicas que reduziram significativamente o tempo de carregamento do sistema.
 
 ---
 
 ## ✅ Tarefas Concluídas
 
-1. **Criação de novos Wireframes**  
-   *Como usuário, quero que novos wireframes sejam desenvolvidos com base nos feedbacks recebidos para garantir que a interface atenda minhas necessidades.*
+1. **Implementação de filtros no mapa com localização geográfica**  
+   *Como usuário, gostaria de filtrar os dados por estado para visualizar informações regionais.*
 
-2. **Desenvolvimento da tela de cadastro**  
-   *Como usuário, quero uma tela de cadastro intuitiva para registrar novas empresas no sistema de forma simples e eficiente.*
+2. **Filtro de crescimento médio**  
+   *Como usuário, gostaria de visualizar empresas ou regiões com base no crescimento médio para facilitar a comparação.*
 
-3. **Desenvolvimento da tela de seleção de empresa**  
-   *Como usuário, quero uma tela clara para selecionar entre as empresas cadastradas e acessar seus dados específicos.*
+3. **Recomendações de empresas para usuários**  
+   *Como usuário, gostaria de receber sugestões de empresas compatíveis com meu perfil cadastrado.*
 
-4. **Ajustes no Dashboard**  
-   *Como usuário, quero que o dashboard seja ajustado conforme solicitei, com melhor organização das informações e elementos visuais.*
+4. **Filtro de preferência da empresa patrocinadora**  
+   *Como empresa, gostaria de definir critérios de filtragem para encontrar usuários com o perfil desejado para patrocínio.*
 
-5. **Implementação da API REST**  
-   *Como desenvolvedor, quero criar uma API REST funcional para permitir a comunicação eficiente entre front-end e back-end.*
+5. **Finalização do cadastro de usuários**  
+   *Como usuário, gostaria de completar meu cadastro com todos os dados obrigatórios, incluindo o estado, para acessar o sistema.*
 
-6. **Conexão front-end com back-end**  
-   *Como desenvolvedor, quero integrar completamente o front-end com o back-end para que o dashboard exiba os dados corretamente.*
+6. **População do banco de dados com informações fictícias**  
+   *Como desenvolvedor, gostaria de preencher o banco com dados simulados para testar as funcionalidades do sistema.*
 
-7. **Tratamento de erros na API**  
-   *Como desenvolvedor, quero implementar um sistema de tratamento de erros para garantir a estabilidade e confiabilidade da aplicação.*
+7. **Criação do manual do usuário**  
+   *Como usuário, gostaria de ter acesso a um manual para entender melhor como usar o sistema.*
 
-8. **Exibição de métricas no dashboard**  
-   *Como usuário, quero visualizar as métricas atualizadas no dashboard para acompanhar o desempenho em tempo real.*
+8. **Otimização de performance**  
+   *Como usuário, gostaria que o sistema carregasse mais rápido para ter uma experiência melhor durante a navegação.*
+
 
 ---
 
 ## 🎨 Design da Sprint
 
-![Design Sprint 2](./docs/sprints/sprint2/mockup-S2.png)
+<div align="center">
+  <img src="docs/sprints/sprint3/MockupFiltros-S3.png" alt="Mockup da Tela de Filtros" width="500px">
+</div>
+
+<div align="center">
+  <img src="docs/sprints/sprint3/MockupDashboard-S3.png" alt="Mockup do Dashboard Atualizado" width="500px">
+</div>
 
 ---
 
 ## 📊 Burndown Chart
 
-> 📈 **Observação:** O burndown ficou abaixo da linha ideal nesta sprint, pois houve uma contribuição significativa de toda a equipe logo na primeira semana. Embora os finais de semana não estivessem no planejamento original, alguns desenvolvedores optaram por trabalhar nesses dias, o que adiantou consideravelmente a entrega.
+> 📈 **Observação:** O gráfico mostra produtividade constante, com pico de entregas na segunda semana. As tarefas de refinamento de design demandaram mais tempo que o planejado, mas foram compensadas pela eficiência na implementação dos filtros.
 
-![Burndown Sprint 2](./docs/sprints/sprint2/burndown-sprint2.jpg)
+<div align="left">
+  <img src="docs/sprints/sprint3/BurndownS3.jpg" alt="Burndown da Sprint 3" width="700px">
+</div>
 
 ---
 
 ## 📎 Documentos da Sprint
 
-- [📄 Definition of Ready (DoR) – Sprint 2](./docs/sprints/sprint2/DoR-sprint2.pdf)  
-- [📄 Definition of Done (DoD) – Sprint 2](./docs/sprints/sprint2/DoD-sprint2.pdf)  
-- [📄 Product Backlog – Sprint 2](./docs/sprints/sprint2/ProductBacklog-sprint2.pdf)
+- [📄 Definition of Ready (DoR) – Sprint 3](docs/sprints/sprint3/DoR-sprint3.pdf)  
+- [📄 Definition of Done (DoD) – Sprint 3](docs/sprints/sprint3/DoDS3.pdf)  
+- [📄 Manual do Usuário – Versão 1.0](docs/sprints/sprint3/ManualUsuario-v1.pdf)
 
+## 🎥 Vídeo do Projeto em Funcionamento
+
+- [🔗 Vídeo no YouTube](https://youtu.be/exemplo_sprint3)
+
+---
+
+## 📌 Próximos Passos
+
+Para a próxima sprint, planeja-se:
+- Implementar sistema de autenticação de usuários
+- Desenvolver funcionalidade de exportação de relatórios em PDF
+- Adicionar gráficos interativos no dashboard
+- Realizar testes de usabilidade com grupo focal

@@ -73,11 +73,3 @@ Nesta sprint, foram implementadas funcionalidades de filtragem avançada no mapa
 - [🔗 Vídeo no YouTube](https://youtu.be/exemplo_sprint3)
 
 ---
-
-## 📌 Próximos Passos
-
-Para a próxima sprint, planeja-se:
-- Implementar sistema de autenticação de usuários
-- Desenvolver funcionalidade de exportação de relatórios em PDF
-- Adicionar gráficos interativos no dashboard
-- Realizar testes de usabilidade com grupo focal
